@@ -112,31 +112,31 @@ h6, .h6 {
 }
 
 .btn-primary {
-  background: #41228e;
+  background:darkblue;
   color: #fff;
 }
 
 .btn-primary:active {
-  background: #542cb7 !important;
+  background: blue !important;
 }
 
 .btn-primary:hover {
-  background: #542cb7;
+  background: blue;
 }
 
 .btn-primary.focus, .btn-primary.active {
-  background: #542cb7 !important;
+  background: blue !important;
   box-shadow: none !important;
 }
 
 .btn-transparent {
   background: transparent;
-  color: #41228e;
+  color:darkblue;
   font-weight: bold;
 }
 
 .btn-transparent:active, .btn-transparent:hover {
-  color: #41228e;
+  color:darkblue;
 }
 
 body {
@@ -145,12 +145,17 @@ body {
 }
 
 ::-moz-selection {
-  background: #542cb7;
+  background: blue;
   color: #fff;
 }
 
+.bg_r{
+    background-color: darkblue !important;
+    color: white !important;
+}
+
 ::selection {
-  background: #542cb7;
+  background: blue;
   color: #fff;
 }
 
@@ -199,11 +204,11 @@ select:focus {
 }
 
 a.text-dark:hover {
-  color: #41228e !important;
+  color:darkblue !important;
 }
 
 a:hover {
-  color: #41228e;
+  color:darkblue;
 }
 
 .slick-slide {
@@ -251,7 +256,7 @@ a:hover {
 }
 
 .bg-primary {
-  background: #41228e !important;
+  background:darkblue !important;
 }
 
 .bg-gray {
@@ -259,7 +264,7 @@ a:hover {
 }
 
 .text-primary {
-  color: #41228e !important;
+  color:darkblue !important;
 }
 
 .text-color {
@@ -396,7 +401,7 @@ a:hover {
 }
 
 .form-control:focus {
-  border-color: #41228e;
+  border-color:darkblue;
   outline: 0;
   box-shadow: none !important;
 }
@@ -426,7 +431,7 @@ textarea.form-control {
 }
 
 .navigation.nav-bg {
-  background-color: #41228e;
+  background-color:darkblue;
   padding: 15px 100px;
 }
 
@@ -439,7 +444,7 @@ textarea.form-control {
 @media (max-width: 991px) {
   .navigation {
     padding: 20px;
-    background: #41228e;
+    background: darkblue;
   }
 }
 
@@ -606,7 +611,7 @@ textarea.form-control {
 }
 
 .hover-bg-primary:hover {
-  background: #41228e;
+  background:darkblue;
 }
 
 .hover-bg-primary:hover * {
@@ -615,7 +620,7 @@ textarea.form-control {
 
 .active-bg-primary {
   transition: .3s ease;
-  background: #41228e;
+  background:darkblue;
 }
 
 .active-bg-primary * {
@@ -766,7 +771,7 @@ blockquote {
   display: inline-block;
   padding: 10px 20px;
   background: #eaeaea;
-  border-left: 2px solid #41228e;
+  border-left: 2px soliddarkblue;
   font-style: italic;
   font-size: 22px;
 }
