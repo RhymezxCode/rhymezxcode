@@ -151,7 +151,6 @@ body {
 
 .bg_r{
     background-color: darkblue !important;
-    color: white !important;
 }
 
 ::selection {
@@ -481,7 +480,7 @@ textarea.form-control {
 
 .layer {
   position: absolute;
-  z-index: 1;
+  z-index: 2;
 }
 
 #l1 {
