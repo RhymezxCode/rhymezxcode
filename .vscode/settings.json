@@ -1,3 +1,5 @@
 {
-    "editor.fontFamily": "'Firaflott','Droid Sans Mono', 'monospace', monospace"
+    "editor.fontFamily": "'Firaflott','Droid Sans Mono', 'monospace', monospace",
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
