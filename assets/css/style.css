@@ -43,7 +43,7 @@ h4 {
 }
 
 a {
-  color: #292929;
+  color: #090150;
   text-decoration: none !important;
   transition: all 0.5s ease-in-out 0s;
 }
@@ -61,12 +61,12 @@ p {
 }
 
 ::-moz-selection {
-  background: #b8a07e;
+  background: #5574ff;
   color: #fff;
 }
 
 ::selection {
-  background: #b8a07e;
+  background: #001c79;
   color: #fff;
 }
 
@@ -132,11 +132,11 @@ p {
 }
 
 .hvr-shutter-in-horizontal::before {
-  background: #333;
+  background: rgb(121, 0, 0);
 }
 
 .hvr-shutter-in-horizontal:hover {
-  background: #b8a07e;
+  background: #173a88;
 }
 
 .mb-30 {
@@ -157,7 +157,7 @@ p {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #b8a07e;
+  background: #002ec4;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -171,7 +171,7 @@ p {
 }
 
 .back-to-top:hover {
-  background: #c6b398;
+  background: #989fc6;
   color: #fff;
 }
 
@@ -189,7 +189,7 @@ p {
   padding: 15px 0;
   background-color: #fff;
   top: -100%;
-  box-shadow: 0px 2px 25px rgba(0, 0, 0, 0.08);
+  box-shadow: 0px 2px 25px rgba(255, 0, 0, 0.08);
 }
 
 #header.header-scrolled,
@@ -209,7 +209,7 @@ p {
 }
 
 #header .logo a {
-  color: #898989;
+  color: #004781;
 }
 
 #header .logo img {
@@ -253,7 +253,7 @@ p {
   font-family: "Poppins", sans-serif;
   font-size: 14px;
   font-weight: 500;
-  color: #7e7d7d;
+  color: #7d7e7d;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -268,8 +268,8 @@ p {
 .navbar a:hover,
 .navbar .active,
 .navbar .active:focus,
-.navbar li:hover>a {
-  color: #b8a07e;
+.navbar li:hover > a {
+  color: #7e92b8;
 }
 
 .navbar .dropdown ul {
@@ -302,11 +302,11 @@ p {
 
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
-.navbar .dropdown ul li:hover>a {
-  color: #b8a07e;
+.navbar .dropdown ul li:hover > a {
+  color: #7e95b8;
 }
 
-.navbar .dropdown:hover>ul {
+.navbar .dropdown:hover > ul {
   opacity: 1;
   top: 100%;
   visibility: visible;
@@ -318,7 +318,7 @@ p {
   visibility: hidden;
 }
 
-.navbar .dropdown .dropdown:hover>ul {
+.navbar .dropdown .dropdown:hover > ul {
   opacity: 1;
   top: 0;
   left: 100%;
@@ -330,7 +330,7 @@ p {
     left: -90%;
   }
 
-  .navbar .dropdown .dropdown:hover>ul {
+  .navbar .dropdown .dropdown:hover > ul {
     left: -100%;
   }
 }
@@ -339,7 +339,7 @@ p {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #4b4a4a;
+  color: #25b5ee;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -368,7 +368,7 @@ p {
   right: 0;
   left: 0;
   bottom: 0;
-  background: rgba(49, 49, 49, 0.9);
+  background: rgba(0, 51, 161, 0.9);
   transition: 0.3s;
 }
 
@@ -401,8 +401,8 @@ p {
 
 .navbar-mobile a:hover,
 .navbar-mobile .active,
-.navbar-mobile li:hover>a {
-  color: #b8a07e;
+.navbar-mobile li:hover > a {
+  color: #7e82b8;
 }
 
 .navbar-mobile .getstarted,
@@ -436,11 +436,11 @@ p {
 
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
-.navbar-mobile .dropdown ul li:hover>a {
-  color: #b8a07e;
+.navbar-mobile .dropdown ul li:hover > a {
+  color: #7e92b8;
 }
 
-.navbar-mobile .dropdown>.dropdown-active {
+.navbar-mobile .dropdown > .dropdown-active {
   display: block;
 }
 
@@ -526,11 +526,11 @@ p {
   font-size: 14px;
 }
 
-.breadcrumbs ol li+li {
+.breadcrumbs ol li + li {
   padding-left: 10px;
 }
 
-.breadcrumbs ol li+li::before {
+.breadcrumbs ol li + li::before {
   display: inline-block;
   padding-right: 10px;
   color: #6c757d;
@@ -563,7 +563,7 @@ p {
 
 #about .div-img-bg {
   padding-bottom: 30px;
-  border: 20px solid #b8a07e;
+  border: 20px solid #315b99;
 }
 
 #about .div-img-bg .about-img img {
@@ -616,7 +616,7 @@ p {
 
 .services-block i {
   font-size: 44px;
-  color: #b8a07e;
+  color: #7e92b8;
   line-height: 44px;
 }
 
@@ -630,11 +630,11 @@ p {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #b8a07e;
+  border: 1px solid #7e90b8;
 }
 
 .services-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #b8a07e;
+  background-color: #7f7eb8;
 }
 
 /*--------------------------------------------------------------
@@ -669,7 +669,7 @@ p {
 
 #portfolio #portfolio-flters li:hover,
 #portfolio #portfolio-flters li.filter-active {
-  color: #b8a07e;
+  color: #7f7eb8;
 }
 
 #portfolio #portfolio-flters li:last-child {
@@ -712,12 +712,12 @@ p {
   right: 40px;
   font-size: 24px;
   top: calc(50% - 18px);
-  color: #b8a07e;
+  color: #7f7eb8;
 }
 
 #portfolio .portfolio-item .portfolio-info .preview-link:hover,
 #portfolio .portfolio-item .portfolio-info .details-link:hover {
-  color: #cab89f;
+  color: #9fa2ca;
 }
 
 #portfolio .portfolio-item .portfolio-info .details-link {
@@ -745,16 +745,22 @@ p {
   position: relative;
 }
 
-.portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet {
+.portfolio-details
+  .portfolio-details-slider
+  .swiper-pagination
+  .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #b8a07e;
+  border: 1px solid #897eb8;
 }
 
-.portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #b8a07e;
+.portfolio-details
+  .portfolio-details-slider
+  .swiper-pagination
+  .swiper-pagination-bullet-active {
+  background-color: #0e0955;
 }
 
 .portfolio-details .portfolio-info {
@@ -776,7 +782,7 @@ p {
   font-size: 15px;
 }
 
-.portfolio-details .portfolio-info ul li+li {
+.portfolio-details .portfolio-info ul li + li {
   margin-top: 10px;
 }
 
@@ -841,7 +847,7 @@ p {
 }
 
 .journal-block .journal-info .journal-txt h4 a:hover {
-  color: #b8a07e;
+  color: #7e8eb8;
   transition: all 0.5s ease-in-out 0s;
 }
 
@@ -889,7 +895,7 @@ p {
   font-weight: 600;
 }
 
-.php-email-form .error-message br+br {
+.php-email-form .error-message br + br {
   margin-top: 25px;
 }
 
@@ -1114,7 +1120,7 @@ blockquote {
 }
 
 #footer .socials-media ul li a:hover {
-  color: #b8a07e;
+  color: #100a49;
   transition: all 0.5s ease-in-out 0s;
 }
 
@@ -1140,7 +1146,6 @@ blockquote {
  *  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  */
 @media (min-width: 768px) and (max-width: 991px) {
-
   /* Navbar */
   nav {
     padding: 10px 15px;
@@ -1223,7 +1228,6 @@ blockquote {
  *  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  */
 @media (max-width: 767px) {
-
   /* Navbar */
   nav {
     padding: 20px 15px;
@@ -1306,7 +1310,6 @@ blockquote {
  *  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  */
 @media (max-width: 600px) {
-
   /* Navbar */
   nav {
     padding: 20px 15px;
@@ -1389,7 +1392,6 @@ blockquote {
  *  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  */
 @media (max-width: 480px) {
-
   /* Navbar */
   nav {
     padding: 20px 15px;
@@ -1471,7 +1473,6 @@ blockquote {
  *  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  */
 @media (max-width: 320px) {
-
   /* Navbar */
   nav {
     padding: 20px 15px;

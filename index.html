@@ -13,7 +13,7 @@
 
     <!-- Google Fonts -->
     <link
-      href="https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,700i|Playfair+Display:400,400i,500,500i,600,600i,700,700i,900,900i"
+      href="https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
       rel="stylesheet"
     />
 
@@ -96,12 +96,12 @@
             I'm
             <span
               class="typed"
-              data-typed-items="Awodire Babajide Samuel, a Senior Android Engineer, a Community lead, a Freelancer, an Open-source contributor, a Dev Library Contributor"
+              data-typed-items="Awodire Babajide Samuel, a Senior Android Engineer, a Community lead, a Freelancer, an Open-source contributor, a Dev Library Contributor, a Mentor"
             ></span>
           </h1>
           <p>
             Senior Android Engineer, Community lead, Freelancer, Open-source
-            contributor, Dev Library Contributor
+            contributor, Dev Library Contributor, Mentor
           </p>
 
           <ul class="list-unstyled list-social">
@@ -161,17 +161,17 @@
             <div class="col-lg-7">
               <div class="about-descr">
                 <p class="p-heading">
-                  I'm an Android engineer with over 4 years of experience,
+                  I'm a Senior Android Engineer with over 4 years of experience,
                   creating mobile applications with the Android framework using
                   java and kotlin.
                 </p>
-                <p class="separator">
+                <!-- <p class="separator">
                   I have participated in building mobile applications from ideas
                   to production. I have uploaded a lot of mobile apps to Play
                   store, I attached the link to showcase them on this portfolio.
                   I'm also taking a new approach to contribute more to open
                   source.
-                </p>
+                </p> -->
                 <hr />
                 <p class="separator">
                   <a
@@ -225,7 +225,7 @@
 
               <div class="swiper-slide">
                 <div class="services-block">
-                  <i class="bi bi-arrow-up-short"></i>
+                  <i class="bi bi-person-rolodex"></i>
                   <span>MENTOR</span>
                   <p class="separator">
                     I mentor junior android developers to set a new turn into
@@ -237,7 +237,7 @@
 
               <div class="swiper-slide">
                 <div class="services-block">
-                  <i class="bi bi-calendar4-week"></i>
+                  <i class="bi bi-collection-fill"></i>
                   <span>DEV LIBRARY CONTRIBUTOR</span>
                   <p class="separator">
                     I create libaries for the Android framework.
@@ -493,7 +493,7 @@
       <div id="journal" class="text-left paddsection">
         <div class="container">
           <div class="section-title text-center">
-            <h2>Journals</h2>
+            <h2>Articles</h2>
           </div>
         </div>
 
@@ -538,6 +538,7 @@
                   <h2 class="mb-30">GET IN TOUCH</h2>
 
                   <ul class="contact-details">
+                    <li><span>Lugbe zone 7,</span></li>
                     <li><span>Abuja, Nigeria</span></li>
                     <li><span>+2347088808260</span></li>
                     <li><span>rhymezx.code@gmail.com</span></li>
@@ -547,15 +548,15 @@
 
               <div class="col-lg-6">
                 <form
-                  action="forms/contact.php"
-                  method="post"
-                  role="form"
-                  class="php-email-form"
+                  action="https://formspree.io/f/mbjpqnzj"
+                  method="POST"
+                  class="row"
                 >
                   <div class="row gy-3">
                     <div class="col-lg-6">
-                      <div class="form-group contact-block1">
+                      <div class="form-group">
                         <input
+                          style="text-transform: capitalize"
                           type="text"
                           name="name"
                           class="form-control"
@@ -569,6 +570,7 @@
                     <div class="col-lg-6">
                       <div class="form-group">
                         <input
+                          style="text-transform: capitalize"
                           type="email"
                           class="form-control"
                           name="email"
@@ -582,6 +584,7 @@
                     <div class="col-lg-12">
                       <div class="form-group">
                         <input
+                          style="text-transform: capitalize"
                           type="text"
                           class="form-control"
                           name="subject"
@@ -595,6 +598,7 @@
                     <div class="col-lg-12">
                       <div class="form-group">
                         <textarea
+                          style="text-transform: capitalize"
                           class="form-control"
                           name="message"
                           placeholder="Message"
@@ -603,13 +607,15 @@
                       </div>
                     </div>
 
-                    <div class="col-lg-12">
+                    <!-- <div class="col-lg-12">
                       <div class="loading">Loading</div>
-                      <div class="error-message"></div>
+                      <div class="error-message">
+                        Sorry, we could not send your message!
+                      </div>
                       <div class="sent-message">
                         Your message has been sent. Thank you!
                       </div>
-                    </div>
+                    </div> -->
 
                     <div class="mt-0">
                       <input
@@ -667,7 +673,13 @@
           </ul>
         </div>
 
-        <p>&copy; Copyrights Folio. All rights reserved.</p>
+        <p>
+          &copy; Copyrights Folio. All rights reserved.
+          <script>
+            var CurrentYear = new Date().getFullYear();
+            document.write(CurrentYear);
+          </script>
+        </p>
 
         <div class="credits">
           <!--
