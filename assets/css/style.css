@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   background: #ffffff;
-  color: #898989;
+  color: #8d8d8d;
   font-family: "Poppins", helvetica;
   font-size: 15px;
   font-weight: 300;
@@ -32,12 +32,12 @@ h6 {
 }
 
 h2 {
-  color: #292929;
+  color: #000000;
   font-weight: 600;
 }
 
 h4 {
-  color: #292929;
+  color: #000000;
   font-size: 14px;
   font-weight: 600;
 }
@@ -56,7 +56,7 @@ p {
   margin: 25px 0;
   padding: 0;
   font-size: 15px;
-  color: #999999;
+  color: #000000;
   line-height: 28px;
 }
 
@@ -253,7 +253,6 @@ p {
   font-family: "Poppins", sans-serif;
   font-size: 14px;
   font-weight: 500;
-  color: #7d7e7d;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -269,7 +268,7 @@ p {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover > a {
-  color: #7e92b8;
+  color: #6a82af;
 }
 
 .navbar .dropdown ul {
@@ -396,7 +395,7 @@ p {
 .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #4b4a4a;
+  color: #000000;
 }
 
 .navbar-mobile a:hover,
@@ -533,7 +532,7 @@ p {
 .breadcrumbs ol li + li::before {
   display: inline-block;
   padding-right: 10px;
-  color: #6c757d;
+  color: #000000;
   content: "/";
 }
 
@@ -577,7 +576,7 @@ p {
 }
 
 #about .about-descr .p-heading {
-  font-family: "Playfair Display", serif;
+  font-family: "Poppins", helvetica;
   font-size: 28px;
   text-align: left;
 }
@@ -601,7 +600,7 @@ p {
   margin: 10px 0;
   position: relative;
   font-size: 13px;
-  color: #292929;
+  color: #000000;
   letter-spacing: 0.1em;
   font-weight: 500;
   text-transform: uppercase;
@@ -616,7 +615,7 @@ p {
 
 .services-block i {
   font-size: 44px;
-  color: #7e92b8;
+  color: #000000;
   line-height: 44px;
 }
 
@@ -658,11 +657,11 @@ p {
   cursor: pointer;
   display: inline-block;
   padding: 10px 15px 8px 15px;
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 600;
   line-height: 1;
   text-transform: uppercase;
-  color: #999999;
+  color: #000000;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
 }
@@ -694,13 +693,13 @@ p {
 
 #portfolio .portfolio-item .portfolio-info h4 {
   font-size: 18px;
-  color: #666;
+  color: rgb(0, 0, 0);
   font-weight: 600;
   margin-bottom: 10px;
 }
 
 #portfolio .portfolio-item .portfolio-info p {
-  color: #999;
+  color: rgb(0, 0, 0);
   font-size: 14px;
   margin: 0;
   padding: 0;
@@ -992,12 +991,12 @@ p {
   line-height: 24px;
   margin: 0 0 13px 0;
   font-weight: 500;
-  color: #292929;
+  color: #000000;
   transition: all 0.5s ease-in-out 0s;
 }
 
 .journal-txt h4 a:hover {
-  color: #b8a07e;
+  color: #7e90b8;
   transition: all 0.5s ease-in-out 0s;
 }
 
@@ -1012,7 +1011,7 @@ p {
 }
 
 .content-main .post-meta a {
-  color: #a2a2a2;
+  color: #000000;
   margin-left: 5px;
 }
 
