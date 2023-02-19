@@ -4,9 +4,13 @@
 <a href="https://twitter.com/rhymezx_code"><img alt="Twitter" src="https://rhymezxcode.github.io/rhymezxcode/badges/twitter.svg"/></a><br/>
 <a href="https://github.com/rhymezxcode"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=rhymezxcode&show=contribs&show_icons=true&include_all_commits=true&count_private=true&theme=default"/></a>
  <br/>
-<img src="https://github.com/RhymezxCode/rhymezxcode/blob/master/android.gif" width="200" height="200"/>
-<img src="https://github.com/RhymezxCode/rhymezxcode/blob/master/android-11-animated-logo.gif" width="200" height="200"/>
-<img src="https://github.com/RhymezxCode/rhymezxcode/blob/master/android-jetpack.gif" width="200" height="200"/>
-<img src="https://github.com/RhymezxCode/rhymezxcode/blob/master/kotlin-android.gif" width="200" height="200"/>
+<a href="https://github.com/rhymezxcode"><img src="https://github.com/RhymezxCode/rhymezxcode/blob/master/android.gif" width="200" height="200"/></a>
+<a href="https://github.com/rhymezxcode"><img src="https://github.com/RhymezxCode/rhymezxcode/blob/master/android-11-animated-logo.gif" width="200" height="200"/></a>
+<a href="https://github.com/rhymezxcode"><img src="https://github.com/RhymezxCode/rhymezxcode/blob/master/android-jetpack.gif" width="200" height="200"/></a>
+<a href="https://github.com/rhymezxcode"><img src="https://github.com/RhymezxCode/rhymezxcode/blob/master/kotlin-android.gif" width="200" height="200"/></a>
+<br/>
+<a href="https://github.com/rhymezxcode"><img src="https://github.com/RhymezxCode/rhymezxcode/blob/master/android-logo.gif" width="200" height="200"/></a>
+<a href="https://github.com/rhymezxcode"><img src="https://github.com/RhymezxCode/rhymezxcode/blob/master/androidstudio.gif" width="200" height="200"/></a>
+<a href="https://github.com/rhymezxcode"><img src="https://github.com/RhymezxCode/rhymezxcode/blob/master/android-line.gif" width="200" height="200"/></a>
 </p>
 
