@@ -26,7 +26,6 @@ I am a passionate and results-driven Software Engineer with over five years of e
 ## 🛠 Skills
 ### Core Skills
 #### Android Development
-- JavaScript (Nodejs)
 - Kotlin
 - Java
 - XML and Jetpack Compose
@@ -39,7 +38,7 @@ I am a passionate and results-driven Software Engineer with over five years of e
 - Dependency management (e.g., Gradle, Maven)
 - Backend and APIs
 #### RESTful API integration
-- Firebase (Realtime Database, Firestore, Authentication, Crashlytics)
+- Firebase (Realtime Database, Firestore, c, Authentication, Crashlytics, Cloud functions)
 - GraphQL APIs
 - Retrofit/Volley/Ktor
 #### UI/UX Development
