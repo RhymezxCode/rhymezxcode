@@ -63,7 +63,7 @@ I am a passionate and results-driven Software Engineer with over five years of e
 - Documentation and knowledge sharing
 #### Other Technologies
 - Cross-platform frameworks (Flutter)
-- Basic DevOps practices for mobile (e.g., Firebase app distribution/Play Store/App Store release management)
+- Basic DevOps practices for mobile (e.g., Firebase app distribution/Play Store Internal testing)
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rhymezxcode.github.io/rhymezxcode/) <br/>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ng.linkedin.com/in/babajide-awodire-00117a125) <br/>
