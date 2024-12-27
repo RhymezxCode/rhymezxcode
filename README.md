@@ -48,6 +48,7 @@ I am a passionate and results-driven Software Engineer with over five years of e
 #### Testing and Debugging
 - Unit Testing (JUnit, Mockito)
 - UI Testing (Espresso)
+- Automated Testing (Appium)
 - Debugging with Android Studio
 - Memory and performance optimization tools (e.g., Android Profiler)
 #### Tools and Frameworks
