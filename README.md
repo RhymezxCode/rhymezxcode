@@ -14,7 +14,4 @@
 [![Google Dev Library](https://rhymezxcode.github.io/rhymezxcode/badges/google-devlib.svg)](https://devlibrary.withgoogle.com/authors/rhymezxcode) <br/>
 [![Medium](https://rhymezxcode.github.io/rhymezxcode/badges/Story-Medium.svg)](https://rhymezxcode.medium.com/about) <br/>
 [![Twitter](https://rhymezxcode.github.io/rhymezxcode/badges/twitter.svg)](https://twitter.com/rhymezx_code) <br/>
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rhymezxcode.github.io/rhymezxcode/) <br/>
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ng.linkedin.com/in/babajide-awodire-00117a125) <br/>
-
 
