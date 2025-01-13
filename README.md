@@ -14,53 +14,6 @@
 [![Google Dev Library](https://rhymezxcode.github.io/rhymezxcode/badges/google-devlib.svg)](https://devlibrary.withgoogle.com/authors/rhymezxcode) <br/>
 [![Medium](https://rhymezxcode.github.io/rhymezxcode/badges/Story-Medium.svg)](https://rhymezxcode.medium.com/about) <br/>
 [![Twitter](https://rhymezxcode.github.io/rhymezxcode/badges/twitter.svg)](https://twitter.com/rhymezx_code) <br/>
-
-## 🚀 About Me
-I am a passionate and results-driven Software Engineer with over five years of experience specializing in Android application and library development. My expertise lies in designing, building, and optimizing high-quality Android solutions that deliver exceptional user experiences. With a deep understanding of mobile technologies and a commitment to excellence, I have consistently contributed to creating innovative and scalable applications and libraries that meet the evolving needs of users and businesses alike.
-
-## 🛠 Skills
-### Core Skills
-#### Android Development
-- Kotlin
-- Java
-- XML and Jetpack Compose
-- Android SDK
-- Material Design principles
-- MVVM, MVP, or Clean Architecture patterns
-- Database solutions (SQLite, Room)
-- Firebase (Realtime Database, Firestore, c, Authentication, Crashlytics, Cloud functions)
-- Retrofit/Volley/Ktor/GraphQL
-- Dependency injection frameworks (Dagger, Hilt)
-- Multithreading (Coroutines, RxJava)
-#### Library Development
-- Custom Android libraries
-- API design and implementation
-- Dependency management (e.g., Gradle, Maven)
-- Backend and APIs
-#### UI/UX Development
-- Responsive and adaptive UI design
-- Custom views and animations
-- Accessibility and localization
-#### Testing and Debugging
-- Unit Testing (JUnit, Mockito)
-- UI Testing (Espresso)
-- Automated Testing (Appium)
-- Debugging with Android Studio
-- Memory and performance optimization tools (e.g., Android Profiler)
-#### Tools and Frameworks
-- Android Studio
-- Fleet
-- Intelli J
-- Git/GitHub/GitLab/Bitbucket
-- CI/CD pipelines (e.g., GitHub Actions)
-#### Collaboration and Communication
-- Agile/Scrum methodologies
-- Code review and pair programming
-- Documentation and knowledge sharing
-#### Other Technologies
-- Cross-platform frameworks (Flutter)
-- Basic DevOps practices for mobile (e.g., Firebase app distribution/Play Store Internal testing)
-
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rhymezxcode.github.io/rhymezxcode/) <br/>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ng.linkedin.com/in/babajide-awodire-00117a125) <br/>
 
