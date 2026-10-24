@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <rect width="1600" height="1000" fill="#10140e"/>
+  <circle cx="1380" cy="180" r="340" fill="#dff56a" opacity="0.16"/>
+  <circle cx="180" cy="920" r="220" fill="#9dffc6" opacity="0.08"/>
+  <text x="88" y="150" fill="#dff56a" font-family="ui-monospace, monospace" font-size="28" letter-spacing="8">APPLICATION</text>
+  <text x="88" y="560" fill="#f4f1e8" font-family="Georgia, 'Times New Roman', serif" font-size="108">Card Info</text>
+  <text x="88" y="660" fill="#b7b1a4" font-family="Outfit, 'Segoe UI', sans-serif" font-size="34">BIN lookup for your card.</text>
+</svg>
