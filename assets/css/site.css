@@ -742,6 +742,11 @@ h4 {
   transition: transform 0.6s ease;
 }
 
+.work-media img[src$=".svg"] {
+  object-fit: cover;
+  object-position: left center;
+}
+
 .work-card:hover .work-media img {
   transform: scale(1.045);
 }
