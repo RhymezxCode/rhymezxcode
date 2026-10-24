@@ -118,4 +118,22 @@
   document.querySelectorAll("[data-year]").forEach((node) => {
     node.textContent = String(new Date().getFullYear());
   });
+
+  const contactForm = document.querySelector("#contact-form");
+  contactForm?.addEventListener("submit", (event) => {
+    event.preventDefault();
+    const data = new FormData(contactForm);
+    const name = String(data.get("name") || "").trim();
+    const email = String(data.get("email") || "").trim();
+    const subject = String(data.get("subject") || "").trim();
+    const message = String(data.get("message") || "").trim();
+    const body = [`Name: ${name}`, `Email: ${email}`, "", message].join("\n");
+    const address = contactForm.dataset.email || "rhymezx.code@gmail.com";
+    const mailto = `mailto:${address}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    window.location.href = mailto;
+    const note = contactForm.querySelector(".form-note");
+    if (note) {
+      note.textContent = "Your email app should open with this message addressed to me.";
+    }
+  });
 })();
