@@ -402,7 +402,7 @@ h4 {
   width: 100%;
   aspect-ratio: 4 / 5;
   object-fit: cover;
-  object-position: 62% 18%;
+  object-position: center 22%;
   border-radius: 28px;
   filter: saturate(0.88) contrast(1.04);
 }
